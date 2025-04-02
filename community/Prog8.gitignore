@@ -1,0 +1,5 @@
+#asm files are intermediate output with Prog8, wonder if this would be a problem in some projects?
+
+*.asm
+*.prg
+*.vice-mon-list
